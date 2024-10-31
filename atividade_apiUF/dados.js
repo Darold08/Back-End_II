@@ -1,7 +1,8 @@
-const colecaoNomesDeLivros = [
+const colecaoLivros = [
     {
         id: 1,
-        nome: "A paciente silenciosa"
+        nome: "A paciente silenciosa",
+        // autor: "Alex Michaelides"
     },
     {
         id: 2,
